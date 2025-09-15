@@ -1,0 +1,5 @@
+print(1 + 84)
+print(84 - 1)
+print(84 * 1)
+print(84 / 1)
+print(84 // 1)
